@@ -91,6 +91,7 @@ Thank you for playing.
 '''
 
 1. Did you struggle with this lab (YES/NO)?
+no really It was just like the first compliment lab minor adjustments
 
 
 
