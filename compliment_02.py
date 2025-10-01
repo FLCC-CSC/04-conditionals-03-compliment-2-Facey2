@@ -29,6 +29,7 @@ def display_compliment():
 
     if display_compliment == 'yes':
         print('You have wonderful eyes.')
+        print('Thank you for playing.')
 
 
     else:
