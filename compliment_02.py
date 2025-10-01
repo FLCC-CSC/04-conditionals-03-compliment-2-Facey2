@@ -1,8 +1,8 @@
 # FILE NAME - compliment_02.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: sheri facey
+# DATE: 10/01/25
+# BRIEF DESCRIPTION:  compliment number 2
 
 
 
@@ -15,9 +15,29 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+def main():
+    display_compliment()
+
+def say_bye():
+    print('No compliment for you!')
+    print('Thank you for playing.')  
+
+
+def display_compliment():
+    display_compliment = input('Would you like a compliment? ')
+
+
+    if display_compliment == 'yes':
+        print('You have wonderful eyes.')
+
+
+    else:
+        say_bye()
+   
 
 
 
+main()
 
 
 
